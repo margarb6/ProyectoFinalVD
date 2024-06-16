@@ -1,0 +1,17 @@
+pandas
+matplotlib
+xlsxwriter
+openpyxl
+seaborn
+folium
+geopandas
+rtree
+streamlit
+requests
+gpxpy
+streamlit-folium
+streamlit-js-eval
+openai
+langchain
+sqlalchemy
+plotly
