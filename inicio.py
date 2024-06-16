@@ -33,10 +33,5 @@ def show_inicio():
         - Visualización de la cobertura de vacunación y las muertes relacionadas con enfermedades específicas por país y año.
         - Interactividad para seleccionar diferentes parámetros y años para personalizar la visualización.
 
-        ### Navegación
-        Utiliza los siguientes enlaces para explorar las funcionalidades del proyecto:
-
-        - [Página de Gráficas](graficas)
-        - [Página de Mapa de Coropletas](mapa_de_coropletas)
-
+      
         """)
